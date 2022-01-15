@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\Day5BasicPrograms\bin\Debug\net6.0\Day5BasicPrograms.exe
+C:\Users\vgj24\source\repos\Day5BasicPrograms\bin\Debug\net6.0\Day5BasicPrograms.deps.json
+C:\Users\vgj24\source\repos\Day5BasicPrograms\bin\Debug\net6.0\Day5BasicPrograms.runtimeconfig.json
+C:\Users\vgj24\source\repos\Day5BasicPrograms\bin\Debug\net6.0\Day5BasicPrograms.dll
+C:\Users\vgj24\source\repos\Day5BasicPrograms\bin\Debug\net6.0\ref\Day5BasicPrograms.dll
+C:\Users\vgj24\source\repos\Day5BasicPrograms\bin\Debug\net6.0\Day5BasicPrograms.pdb
+C:\Users\vgj24\source\repos\Day5BasicPrograms\obj\Debug\net6.0\Day5BasicPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\Day5BasicPrograms\obj\Debug\net6.0\Day5BasicPrograms.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\Day5BasicPrograms\obj\Debug\net6.0\Day5BasicPrograms.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\Day5BasicPrograms\obj\Debug\net6.0\Day5BasicPrograms.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\Day5BasicPrograms\obj\Debug\net6.0\Day5BasicPrograms.dll
+C:\Users\vgj24\source\repos\Day5BasicPrograms\obj\Debug\net6.0\ref\Day5BasicPrograms.dll
+C:\Users\vgj24\source\repos\Day5BasicPrograms\obj\Debug\net6.0\Day5BasicPrograms.pdb
+C:\Users\vgj24\source\repos\Day5BasicPrograms\obj\Debug\net6.0\Day5BasicPrograms.genruntimeconfig.cache
+C:\Users\vgj24\source\repos\Day5BasicPrograms\obj\Debug\net6.0\Day5BasicPrograms.csproj.AssemblyReference.cache
